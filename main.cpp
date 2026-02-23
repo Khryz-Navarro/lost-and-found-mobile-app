@@ -1,4 +1,4 @@
 #include <iostream>
 using std::string;
 
-cout<< "Hola" << std::endl;
+std::cout << "Hola" << std::endl;
